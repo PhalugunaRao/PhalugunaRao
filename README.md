@@ -52,6 +52,16 @@ Welcome to my GitHub profile! I am an experienced **Android Developer** with a p
 <br></br>
 <br></br>
 <br></br>
+<br></br>
+
+## 🏅 LeetCode Profile
+
+| 🔗 **Username**   | [Phalguna Rao](https://leetcode.com/u/user1893WR/) |
+|------------------|--------------------------------------------------|
+| 📊 **Rank**       | ![LeetCode Rank](https://leetcard.jacoblin.cool/user1893WR?theme=light&font=Arial) |
+| 🏆 **Skills**     | **Intermediate:** Hash Table (2) <br> **Fundamental:** Array (2), String (1), Sorting (1) |
+| 🌍 **Community**  | **Views:** 0 <br> **Solutions:** 0 <br> **Discuss Posts:** 0 <br> **Reputation:** 0 |
+| 🏅 **Badges**     | 0                                                 |
 
 ---
 
